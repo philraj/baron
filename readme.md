@@ -18,13 +18,13 @@ See also [react-baron](https://github.com/Diokuz/react-baron).
 
 - Doesn't replace native system scroll mechanic.
 - Customizable scrollbar design with full CSS support.
-- Do not depends on external libraries (since v3).
+- Does not depend on external libraries (since v3).
 - Can be inited on hidden blocks
 - Vertical, horizontal and bidirectional scroll
 - Infinite scroll
 - Nested scrollers
 
-Baron do not hide native scrollbar, just hides it. This guarantees scrolling will work in any browser.
+Baron does not replace the native scrollbar, just hides it. This guarantees scrolling will work in any browser.
 
 ## 1. Hiding system scrollbar
 
